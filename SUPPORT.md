@@ -2,7 +2,7 @@
 
 Use GitHub Issues for support requests:
 
-https://github.com/victorhumenhuk/YT-Channel-Blocker/issues
+https://github.com/victorhumenhuk/YouTube-Blocker/issues
 
 For privacy questions, see:
 

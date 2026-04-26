@@ -1,12 +1,12 @@
-# YT Channel Blocker Support
+# YouTube Blocker Support
 
-This is the public support page for YT Channel Blocker.
+This is the public support page for YouTube Blocker.
 
 ## Get Help
 
-If YT Channel Blocker is not working as expected, open a support request in GitHub Issues:
+If YouTube Blocker is not working as expected, open a support request in GitHub Issues:
 
-https://github.com/victorhumenhuk/YT-Channel-Blocker/issues
+https://github.com/victorhumenhuk/YouTube-Blocker/issues
 
 Please include:
 
@@ -17,11 +17,11 @@ Please include:
 
 ## What the App Does
 
-YT Channel Blocker hides selected YouTube channels from feeds, search results, recommendations, and direct channel visits. The block list is stored locally on your device.
+YouTube Blocker hides selected YouTube channels from feeds, search results, recommendations, and direct channel visits. The block list is stored locally on your device.
 
 ## Privacy
 
-YT Channel Blocker does not collect personal data, create accounts, or send your block list to a server.
+YouTube Blocker does not collect personal data, create accounts, or send your block list to a server.
 
 Privacy policy:
 
